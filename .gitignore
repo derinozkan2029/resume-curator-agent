@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+.DS_Store
+workspace/output/
+workspace/tmp/
+workspace/resume_master.md
