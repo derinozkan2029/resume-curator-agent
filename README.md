@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/derinozkan2029/resume-curator-agent/actions/workflows/ci.yml/badge.svg)
 
-A LangGraph agent that takes a job posting URL and your master resume, decides whether you are a realistic fit, and if so writes a one-page tailored resume (and optionally a cover letter) as PDFs.
+A LangGraph agent that takes a job posting URL and your master resume, decides whether you are a realistic fit, and if so writes a one-page tailored resume (and optionally a cover letter) as PDFs. I transferred this improved version from my old project: NeuralNineLangChain
 
 ![Demo](docs/demo.gif)
 
